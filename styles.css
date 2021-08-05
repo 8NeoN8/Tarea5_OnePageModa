@@ -1,0 +1,39 @@
+.navbar {
+  z-index: 1;
+}
+
+.head-img {
+  margin-top: -57px;
+}
+
+.foot {
+  position: relative;
+  bottom: -16px;
+}
+
+.sale-promo {
+  margin-top: -380px;
+}
+
+.shopbtn {
+  text-decoration: none;
+}
+
+.crossed {
+  text-decoration: line-through;
+}
+
+.topbtn {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 5;
+}
+
+.topbtn a {
+  text-decoration: none;
+}
+
+.sect {
+  margin-top: -24px;
+}
